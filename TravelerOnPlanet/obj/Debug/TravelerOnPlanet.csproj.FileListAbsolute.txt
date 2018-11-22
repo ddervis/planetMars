@@ -1,0 +1,7 @@
+C:\Users\ASUS\Source\Repos\TravelerOnPlanet\TravelerOnPlanet\obj\Debug\TravelerOnPlanet.csprojAssemblyReference.cache
+C:\Users\ASUS\Source\Repos\TravelerOnPlanet\TravelerOnPlanet\obj\Debug\TravelerOnPlanet.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\TravelerOnPlanet\TravelerOnPlanet\bin\Debug\TravelerOnPlanet.exe.config
+C:\Users\ASUS\Source\Repos\TravelerOnPlanet\TravelerOnPlanet\bin\Debug\TravelerOnPlanet.exe
+C:\Users\ASUS\Source\Repos\TravelerOnPlanet\TravelerOnPlanet\bin\Debug\TravelerOnPlanet.pdb
+C:\Users\ASUS\Source\Repos\TravelerOnPlanet\TravelerOnPlanet\obj\Debug\TravelerOnPlanet.exe
+C:\Users\ASUS\Source\Repos\TravelerOnPlanet\TravelerOnPlanet\obj\Debug\TravelerOnPlanet.pdb
